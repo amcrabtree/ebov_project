@@ -9,7 +9,8 @@ This app allows a researcher to view many aspects of a large and complex dataset
 <b>Dependencies</b>
 
 For editing the code, you must have [R Script](https://www.r-project.org/) and the [Shiny](https://shiny.rstudio.com/) R package. When hosted through [shinyapps.io](https://www.shinyapps.io/), the output is an interactive GUI that can be accessed remotely with a web browser. 
+<p>&nbsp;</p>
 
 <b>Appearance</b>
 
-<img src="https://github.com/amcrabtree/ebov_project/blob/main/ebov_proj_preview.jpeg" alt="drawing" width="500"/>
+<img src="https://github.com/amcrabtree/ebov_project/blob/main/ebov_proj_preview.jpeg" alt="drawing" width="600"/>
