@@ -1,0 +1,12 @@
+name: ebov_proj
+title: ebov_proj
+username:
+account: amcrabtree
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1886557
+bundleId: 2865900
+url: https://amcrabtree.shinyapps.io/ebov_proj/
+when: 1583795139.21485
+asMultiple: FALSE
+asStatic: FALSE
