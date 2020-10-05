@@ -1,6 +1,6 @@
 # ebov_project
 
-<b>[View This App](https://www.shinyapps.io/admin/#/application/1886557)</b>
+<b>[View This App](https://amcrabtree.shinyapps.io/ebov_proj/)</b>
 <p>&nbsp;</p>
 
 This app allows a researcher to view many aspects of a large and complex dataset in order to spot trends. This script was originally written for a project involving the testing of potential small molecule inhibitors against various pseudoviruses. 
